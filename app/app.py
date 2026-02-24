@@ -67,5 +67,5 @@ if st.button("Analyze Risk", use_container_width=True):
             st.success("LOW RISK: No seizure event predicted.")
 
 st.divider()
-st.caption("Note: This dashboard uses simulated data and is for educational purposes only.")
+st.caption("Note: This dashboard uses simulated data and is not for clinical use.")
 
