@@ -22,7 +22,7 @@ def load_model(path):
 model = load_model(model_path)
 
 # --- UI ELEMENTS ---
-st.title("Epilepsy Seizure Risk Dashboard")
+st.title("Seizure Risk Simulator")
 st.markdown("Enter patient metrics below to assess the simulated risk of a seizure event.")
 
 with st.sidebar:
